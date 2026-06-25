@@ -113,7 +113,7 @@ def upload_log_to_drive(drive):
 # ══════════════════════════════════════════════════════════
 
 # ── Google Sheets ─────────────────────────────────────────
-SPREADSHEET_ID = "1qMLiGlLFfXDpQ49GfpezpAC7ppFBJYBjA62wO3NNoUs"
+SPREADSHEET_ID = "1ZQBMYXJE6c_9vslgKDPUWebhmtE8hVFrKmWYriFDZMg"
 SHEET_NAME     = os.environ.get("SHEET_NAME", "Sheet1")
 
 # ── Google Drive / Sheets scopes ─────────────────────────
