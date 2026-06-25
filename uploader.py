@@ -123,7 +123,7 @@ DRIVE_SCOPES = [
 ]
 
 # ── Caption (shared by Instagram and Facebook) ────────────
-CAPTION = """@krati_with__tea  #viral #viralpost #viralreels #trending #trendingnow #trendalert #explore #explorepage #foryou #fyp #reels #instareels #reelsviral #reelstrending #reelsoftheday #reelscreator #reels2026 #instadaily #instamood #instalife #instaviral #instagrowth #contentcreator #dailycontent #viralcontent #explore2026 #instatrending #popularposts #trendingshots #socialmediatrends"""
+CAPTION = """@know_nysa  #viral #viralpost #viralreels #trending #trendingnow #trendalert #explore #explorepage #foryou #fyp #reels #instareels #reelsviral #reelstrending #reelsoftheday #reelscreator #reels2026 #instadaily #instamood #instalife #instaviral #instagrowth #contentcreator #dailycontent #viralcontent #explore2026 #instatrending #popularposts #trendingshots #socialmediatrends"""
 
 # ── Instagram ─────────────────────────────────────────────
 IG_ACCESS_TOKEN = os.environ["IG_ACCESS_TOKEN"]
