@@ -1,5 +1,5 @@
 {
-  "last_processed_s_no": 8,
+  "last_processed_s_no": 9,
   "records": [
     {
       "s_no": 1,
@@ -64,6 +64,14 @@
       "ig_post_id": "18350874628300937",
       "fb_video_id": null,
       "timestamp": "2026-06-26 10:40:52"
+    },
+    {
+      "s_no": 9,
+      "drive_file_id": "19KXhqIrbGiIOkNRkAAZxUBJN3hFW7sIn",
+      "drive_file_name": "reel_13_face2.mp4",
+      "ig_post_id": null,
+      "fb_video_id": null,
+      "timestamp": "2026-06-27 08:18:19"
     }
   ]
 }
